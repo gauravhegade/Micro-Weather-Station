@@ -1,4 +1,4 @@
-# Sensor Data Logger and Visualization Dashboard
+# Micro Weather Station
 
 This Project provides a solution for logging data from an ultrasonic sensor and a DHT11 temperature/humidity sensor, as well as visualizing the collected data in an interactive dashboard. The script runs on a Raspberry Pi and uses the RPi.GPIO, Adafruit_DHT, pandas, plotly.graph_objects, and Dash libraries.
 
