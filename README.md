@@ -61,3 +61,9 @@ Before running the script, ensure you have the following components and librarie
 Feel free to modify the script to suit your specific project requirements. You can add more sensors, customize the visualization, or implement additional features based on your needs.
 
 **Note:** Ensure that you have write permissions in the directory where the script is located to save the CSV file successfully.
+
+
+### Authors
+
+- [PhalgunaShavanak](https://github.com/PhalgunaShavanak)
+- [@gauravhegade](https://github.com/gauravhegade)
