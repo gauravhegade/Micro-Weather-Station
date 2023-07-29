@@ -65,5 +65,5 @@ Feel free to modify the script to suit your specific project requirements. You c
 
 ### Authors
 
-- [PhalgunaShavanak](https://github.com/PhalgunaShavanak)
+- [@PhalgunaShavanak](https://github.com/PhalgunaShavanak)
 - [@gauravhegade](https://github.com/gauravhegade)
